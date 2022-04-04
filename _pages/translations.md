@@ -11,11 +11,11 @@ redirect_from:
 
 
 
-During my work, I have come across works by French mathematicians, for which English translations do not seem to be easily accessible. 
+During my work, I have come across works by French mathematicians, for which English translations do not seem to be readily available. 
 This page contains English translations of some of them by me, in case it is useful to others in the research community. 
 
-**NOTE 1** I do not claim credit for the mathematical contents of these documents. If rights are violated, I will take them down upon being notified.   
-**NOTE 2** My French is intermediate at best, and there may be errors in translation. If found, I would be grateful if you could please let me know. 
+**NOTE 1:** I do not claim credit for the mathematical contents of these documents. If rights are violated, I will take them down upon being notified.   
+**NOTE 2:** My French is intermediate at best, and there may be errors in translation. If found, I would be grateful if you could please let me know. 
 
 
 **Sous-espaces hilbertiens d’espaces vectoriels topologiques et noyaux associés (Noyaux reproduisants)**  
