@@ -20,17 +20,17 @@ This page contains English translations of some of them by me, in case it is use
 
 **Sous-espaces hilbertiens d’espaces vectoriels topologiques et noyaux associés (Noyaux reproduisants)**  
 [original](https://link.springer.com/article/10.1007/BF02786620), Laurent Schwartz, 1963.  
-**Hilbert subspaces of topological vector spaces and associated kernels (reproducing kernels).**  
+**Hilbert subspaces of topological vector spaces and associated kernels (reproducing kernels)**  
 [English translation](/files/Schwartz.pdf)
 
 
 **Plongements lipschitziens dans Rn**  
 [original](https://www.semanticscholar.org/paper/Plongements-lipschitziens-dans-Rn-Assouad/eefb25d7b29c1ae94496406b17aea1acbd9873af) Patrice Assouad, 1983.  
-**Lipschitz embeddings into Rn.**  
+**Lipschitz embeddings into Rn**  
 [English translation](/files/Assouad.pdf)
 
 
 **Éléments aléatoires dans un espace de Banach**  
 [original](http://www.numdam.org/item/AIHP_1953__13_3_161_0/)  
-**Random elements in a Banach space.**  
+**Random elements in a Banach space**  
 English translation forthcoming.
