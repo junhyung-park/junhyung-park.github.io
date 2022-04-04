@@ -25,7 +25,7 @@ Junhyung Park, Uri Shalit, Bernhard Schölkopf and Krikamol Muandet.
 
 **Regularised Least-Squares Regression with Infinite-Dimensional Output Space**  
 Junhyung Park and Krikamol Muandet.  
-*arXiv notes.*  
+*arXiv notes, 2020.*  
 [arXiv](https://arxiv.org/abs/2010.10973)
 
 
