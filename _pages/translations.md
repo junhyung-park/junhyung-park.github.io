@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 During my work, I have come across works by French mathematicians, for which English translations do not seem to be easily accessible. 
 This page contains English translations of some of them by me, in case it is useful to others in the research community. 
 
