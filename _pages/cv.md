@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 author_profile: true
 redirect_from:
   - /cv.html
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
 * BA. in Mathematics, Trinity College, University of Cambridge, UK, 2015
 * MMath. in Mathematics, Trinity College, University of Cambridge, UK, 2016
 * MSc. in Statistics, ETH Zürich, Switzerland, 2019
@@ -20,3 +19,5 @@ Work experience
 ======
 * 2016-2017: Junior Researcher
   * CalebABC, Seoul, Korea
+
+[cv](/files/cv_jun.pdf)
