@@ -25,12 +25,12 @@ This page contains English translations of some of them by me, in case it is use
 
 
 **Plongements lipschitziens dans Rn**  
-[original](https://www.semanticscholar.org/paper/Plongements-lipschitziens-dans-Rn-Assouad/eefb25d7b29c1ae94496406b17aea1acbd9873af) Patrice Assouad, 1983.  
+[original](https://www.semanticscholar.org/paper/Plongements-lipschitziens-dans-Rn-Assouad/eefb25d7b29c1ae94496406b17aea1acbd9873af), Patrice Assouad, 1983.  
 **Lipschitz embeddings into Rn**  
 [English translation](/files/Assouad.pdf)
 
 
 **Éléments aléatoires dans un espace de Banach**  
-[original](http://www.numdam.org/item/AIHP_1953__13_3_161_0/)  
+[original](http://www.numdam.org/item/AIHP_1953__13_3_161_0/), Edith Mourier, 1953.  
 **Random elements in a Banach space**  
 English translation forthcoming.
