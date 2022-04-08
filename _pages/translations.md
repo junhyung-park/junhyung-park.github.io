@@ -19,7 +19,7 @@ This page contains English translations of some of them by me, in case it is use
 
 
 **Sous-espaces hilbertiens d’espaces vectoriels topologiques et noyaux associés (Noyaux reproduisants)**  
-Laurent Schwartz, 1963, [original](https://link.springer.com/article/10.1007/BF02786620).   
+Laurent Schwartz, 1964, [original](https://link.springer.com/article/10.1007/BF02786620).   
 **Hilbert subspaces of topological vector spaces and associated kernels (reproducing kernels)**  
 [English translation](/files/Schwartz.pdf)
 
