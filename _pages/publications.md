@@ -19,7 +19,7 @@ Junhyung Park and Krikamol Muandet.
 
 **Conditional Distributional Treatment Effect with Kernel Conditional Mean Embeddings and U-Statistic Regression**  
 Junhyung Park, Uri Shalit, Bernhard Schölkopf and Krikamol Muandet.  
-*ICML 2021, Spotlight.*  
+*ICML 2021.*  
 [arXiv](https://arxiv.org/abs/2102.08208)
 
 
