@@ -33,4 +33,4 @@ Patrice Assouad, 1983, [original](https://www.semanticscholar.org/paper/Plongeme
 **Éléments aléatoires dans un espace de Banach**  
 Edith Mourier, 1953, [original](http://www.numdam.org/item/AIHP_1953__13_3_161_0/).  
 **Random elements in a Banach space**  
-English translation forthcoming.
+[English translation](/files/Mourier.pdf).
