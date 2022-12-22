@@ -13,7 +13,7 @@ redirect_from:
 
 **Towards Empirical Process Theory for Vector-Valued Functions: Metric Entropy of Smooth Function Classes**  
 Junhyung Park and Krikamol Muandet.  
-*Submitted.*  
+*ALT 2023*  
 [arXiv](https://arxiv.org/abs/2202.04415)
 
 
