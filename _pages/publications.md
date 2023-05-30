@@ -13,12 +13,13 @@ redirect_from:
 
 **A Measure-Theoretic Axiomatisation of Causality**  
 Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.  
-*Submitted* 
+*Submitted.*  
+[arXiv](https://arxiv.org/abs/2305.17139)
 
 
 **Towards Empirical Process Theory for Vector-Valued Functions: Metric Entropy of Smooth Function Classes**  
 Junhyung Park and Krikamol Muandet.  
-*ALT 2023*  
+*ALT 2023.*  
 [arXiv](https://arxiv.org/abs/2202.04415)
 
 
