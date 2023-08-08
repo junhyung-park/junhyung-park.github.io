@@ -17,6 +17,12 @@ Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.
 [arXiv](https://arxiv.org/abs/2305.17139)
 
 
+**A continuous Structural Intervention Distance to compare Causal Graphs**
+Mihir Dhanakshirur, Felix Laumann, Junhyung Park and Mauricio Barahona. 
+*Submitted.*
+[arXiv](https://arxiv.org/abs/2307.16452)
+
+
 **Towards Empirical Process Theory for Vector-Valued Functions: Metric Entropy of Smooth Function Classes**  
 Junhyung Park and Krikamol Muandet.  
 *ALT 2023.*  
