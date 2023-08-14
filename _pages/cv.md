@@ -19,7 +19,7 @@ Work experience
 ======
 * Aug 2023 - Dec 2023: Applied Scientist Intern
   * Amazon Web Services, Santa Clara, California, USA
-  * Supervised by [Shiva Kasiviswanathan](https://www.shivakasiviswanathan.com/index.html)
+  * Supervised by [Shiva Kasiviswanathan](https://www.shivakasiviswanathan.com/index.html) and [Patrick Blöbaum](https://www.amazon.science/author/patrick-bloebaum). 
 
 * Sep 2016 - Jun 2017: Junior Researcher
   * CalebABC, Seoul, Korea
