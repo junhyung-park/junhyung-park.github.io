@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-* BA. in Mathematics, Trinity College, University of Cambridge, UK, 2015
-* MMath. in Mathematics, Trinity College, University of Cambridge, UK, 2016
-* MSc. in Statistics, ETH Zürich, Switzerland, 2019
+* BA. in Mathematics, Trinity College, University of Cambridge, UK, Oct 2012 - Jun 2015
+* MMath. in Mathematics, Trinity College, University of Cambridge, UK, Oct 2015 - Jun 2016
+* MSc. in Statistics, ETH Zürich, Switzerland, Sep 2017 - Aug 2019
   * Thesis supervised by [Sara van de Geer](https://stat.ethz.ch/~vsara/)
-* Ph.D in Machine Learning, Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2019- (expected May 2024)
+* Ph.D in Machine Learning, Max Planck Institute for Intelligent Systems, Tübingen, Germany, Nov 2019- (expected May 2024)
   * Supervised by [Krikamol Muandet](https://www.krikamol.org/) and [Bernhard Schölkopf](https://is.mpg.de/~bs)
 
 Work experience
