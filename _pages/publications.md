@@ -13,7 +13,7 @@ redirect_from:
 
 **A Measure-Theoretic Axiomatisation of Causality**  
 Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.  
-*Submitted.*  
+*NeurIPS 2023 (oral).*  
 [arXiv](https://arxiv.org/abs/2305.17139)
 
 
