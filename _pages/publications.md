@@ -17,7 +17,12 @@ Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.
 [arXiv](https://arxiv.org/abs/2305.17139)
 
 
-**A continuous Structural Intervention Distance to compare Causal Graphs**  
+**Kernel-based Independence Tests for Causal Structure Learning on Functional Data**
+Felix Laumann, Julius von Kügelgen, Junhyung Park, Bernhard Schölkopf and Mauricio Barahona. 
+*Submitted.*
+
+
+**A Continuous Structural Intervention Distance to Compare Causal Graphs**  
 Mihir Dhanakshirur, Felix Laumann, Junhyung Park and Mauricio Barahona.  
 *Submitted.*  
 [arXiv](https://arxiv.org/abs/2307.16452)
