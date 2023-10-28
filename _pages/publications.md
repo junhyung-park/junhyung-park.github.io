@@ -17,7 +17,7 @@ Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.
 [arXiv](https://arxiv.org/abs/2305.17139)
 
 
-**Kernel-based Independence Tests for Causal Structure Learning on Functional Data**
+**Kernel-based Independence Tests for Causal Structure Learning on Functional Data**  
 Felix Laumann, Julius von Kügelgen, Junhyung Park, Bernhard Schölkopf and Mauricio Barahona.  
 *Submitted.*
 
