@@ -19,7 +19,8 @@ Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.
 
 **Kernel-based Independence Tests for Causal Structure Learning on Functional Data**  
 Felix Laumann, Julius von Kügelgen, Junhyung Park, Bernhard Schölkopf and Mauricio Barahona.  
-*Submitted.*
+*Entropy 2023.*  
+[pre-print](https://www.preprints.org/manuscript/202310.1816/v1)
 
 
 **A Continuous Structural Intervention Distance to Compare Causal Graphs**  
