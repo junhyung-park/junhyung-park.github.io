@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 
 
+**Products, Abstractions and Inclusions of Causal Spaces**  
+Simon Buchholz\*, Junhyung Park\* and Bernhard Schölkopf  
+*UAI 2024.*  
+
 
 **A Measure-Theoretic Axiomatisation of Causality**  
 Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.  
