@@ -16,6 +16,12 @@ Simon Buchholz\*, Junhyung Park\* and Bernhard Schölkopf
 [arXiv](https://arxiv.org/abs/2406.00388)
 
 
+**A Continuous Structural Intervention Distance to Compare Causal Graphs**  
+Mihir Dhanakshirur, Felix Laumann, Junhyung Park and Mauricio Barahona.  
+*PCIC 2024.*  
+[arXiv](https://arxiv.org/abs/2307.16452)
+
+
 **A Measure-Theoretic Axiomatisation of Causality**  
 Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.  
 *NeurIPS 2023 (oral, 77/12343).*  
@@ -26,12 +32,6 @@ Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.
 Felix Laumann, Julius von Kügelgen, Junhyung Park, Bernhard Schölkopf and Mauricio Barahona.  
 *Entropy 2023.*  
 [pre-print](https://www.preprints.org/manuscript/202310.1816/v1)
-
-
-**A Continuous Structural Intervention Distance to Compare Causal Graphs**  
-Mihir Dhanakshirur, Felix Laumann, Junhyung Park and Mauricio Barahona.  
-*Submitted.*  
-[arXiv](https://arxiv.org/abs/2307.16452)
 
 
 **Towards Empirical Process Theory for Vector-Valued Functions: Metric Entropy of Smooth Function Classes**  
