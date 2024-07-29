@@ -11,7 +11,7 @@ redirect_from:
 
 
 * BA. in Mathematics, Trinity College, University of Cambridge, UK, Oct 2012 - Jun 2015
-* MMath. in Mathematics, Trinity College, University of Cambridge, UK, Oct 2015 - Jun 2016
+* MMath. in Mathematics (Part III), Trinity College, University of Cambridge, UK, Oct 2015 - Jun 2016
 * MSc. in Statistics, ETH Zürich, Switzerland, Sep 2017 - Aug 2019
   * Thesis supervised by [Sara van de Geer](https://stat.ethz.ch/~vsara/)
 * Ph.D in Machine Learning, Max Planck Institute for Intelligent Systems, Tübingen, Germany, Nov 2019 - Jul 2024
