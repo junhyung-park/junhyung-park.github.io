@@ -31,7 +31,7 @@ Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.
 **Kernel-based Independence Tests for Causal Structure Learning on Functional Data**  
 Felix Laumann, Julius von Kügelgen, Junhyung Park, Bernhard Schölkopf and Mauricio Barahona.  
 *Entropy 2023.*  
-[pre-print](https://www.preprints.org/manuscript/202310.1816/v1)
+[arXiv](https://arxiv.org/abs/2311.08743)
 
 
 **Towards Empirical Process Theory for Vector-Valued Functions: Metric Entropy of Smooth Function Classes**  
