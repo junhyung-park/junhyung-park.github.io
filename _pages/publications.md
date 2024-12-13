@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-**Benign Overfitting for Regression with Trained Two-Layer ReLU Networks**
-Junhyung Park, Patrick Blöbaum and Shiva Kasiviswanathan
+**Benign Overfitting for Regression with Trained Two-Layer ReLU Networks**  
+Junhyung Park, Patrick Blöbaum and Shiva Kasiviswanathan  
 *Submitted.*
 
 
