@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
+**Benign Overfitting for Regression with Trained Two-Layer ReLU Networks**
+Junhyung Park, Patrick Blöbaum and Shiva Kasiviswanathan
+*Submitted.*
+
+
 **Products, Abstractions and Inclusions of Causal Spaces**  
 Simon Buchholz\*, Junhyung Park\* and Bernhard Schölkopf  
 *UAI 2024.*  
