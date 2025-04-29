@@ -10,6 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
+April 2025  
+**Seoul National University, Graduate School of Data Science**  
+Causal Spaces: A Measure-Theoretic Axiomatisation of Causality  
+
+
+April 2025  
+**Seoul National University, Department of Statistics**  
+Causal Spaces: A Measure-Theoretic Axiomatisation of Causality  
+
+
 January 2025  
 **Korea University**  
 Causal Spaces: A Measure-Theoretic Axiomatisation of Causality  
