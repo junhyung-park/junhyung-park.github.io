@@ -10,6 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
+**On the sample complexity of semi-supervised multi-objective learning**  
+Tobias Wegel, Geelon So, Junhyung Park and Fanny Yang  
+*Submitted.*
+
+
+**Causal-DRF: Conditional Kernel Treatment Effect Estimation using Distributional Random Forest**  
+Jeffrey Näf, Junhyung Park and Herbert Susmann  
+*Submitted.*  
+
+
 **A Classical View on Benign Overfitting: The Role of Sample Size**  
 Junhyung Park, Patrick Blöbaum and Shiva Kasiviswanathan  
 *Submitted.*
