@@ -22,7 +22,8 @@ Jeffrey Näf, Junhyung Park and Herbert Susmann
 
 **A Classical View on Benign Overfitting: The Role of Sample Size**  
 Junhyung Park, Patrick Blöbaum and Shiva Kasiviswanathan  
-*Submitted.*
+*Submitted.*  
+[arXiv](https://arxiv.org/abs/2505.11621)
 
 
 **Products, Abstractions and Inclusions of Causal Spaces**  
