@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
+June 2025  
+**German Research Centre for Artificial Intelligence**  
+Causal Spaces: A Measure-Theoretic Axiomatisation of Causality  
+
+
 April 2025  
 **Seoul National University, Graduate School of Data Science**  
 Causal Spaces: A Measure-Theoretic Axiomatisation of Causality  
