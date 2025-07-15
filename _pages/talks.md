@@ -10,6 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
+July 2025  
+**Technical University of Munich**  
+Causal Spaces: A Measure-Theoretic Axiomatisation of Causality
+
+
+July 2025  
+**Max Planck Institute for Intelligent Systems, Tübingen**  
+Causal and Counterfactual Spaces
+
+
 June 2025  
 **German Research Centre for Artificial Intelligence**  
 Causal Spaces: A Measure-Theoretic Axiomatisation of Causality  
