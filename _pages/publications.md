@@ -12,7 +12,8 @@ redirect_from:
 
 **On the sample complexity of semi-supervised multi-objective learning**  
 Tobias Wegel, Geelon So, Junhyung Park and Fanny Yang  
-*Submitted.*
+*Submitted.*  
+[arXiv](https://arxiv.org/abs/2508.17152)
 
 
 **Causal-DRF: Conditional Kernel Treatment Effect Estimation using Distributional Random Forest**  
