@@ -12,7 +12,7 @@ redirect_from:
 
 **On the sample complexity of semi-supervised multi-objective learning**  
 Tobias Wegel, Geelon So, Junhyung Park and Fanny Yang  
-*NeurIPS 2025.*  
+*NeurIPS 2025 (spotlight, 688/21575).*  
 [arXiv](https://arxiv.org/abs/2508.17152)
 
 
