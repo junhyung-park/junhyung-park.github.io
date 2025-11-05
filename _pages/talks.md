@@ -10,6 +10,26 @@ redirect_from:
 {% include base_path %}
 
 
+November 2025  
+**University College London, Gatsby Unit and Ellis Unit UCL**  
+Causal and Counterfactual Spaces
+
+
+October 2025  
+**Helmholtz Munich**  
+Causal and Counterfactual Spaces
+
+
+October 2025  
+**Symposium on Mathematical Foundations of Trustworthy Learning**  
+Causal Spaces: A Measure-Theoretic Axiomatisation of Causality
+
+
+October 2025  
+**ETH Z\"urich**  
+Counterfactual Spaces
+
+
 July 2025  
 **Technical University of Munich**  
 Causal Spaces: A Measure-Theoretic Axiomatisation of Causality
