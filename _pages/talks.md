@@ -26,7 +26,7 @@ Causal Spaces: A Measure-Theoretic Axiomatisation of Causality
 
 
 October 2025  
-**ETH Z\"urich**  
+**ETH Zurich**  
 Counterfactual Spaces
 
 
