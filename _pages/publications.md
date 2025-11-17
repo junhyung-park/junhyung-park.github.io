@@ -10,6 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
+**Counterfactual Spaces**  
+Junhyung Park, Fanny Yang and Thomas Icard
+*EIML@EurIPS 2025 Workshop*  
+Submitted to journal
+
+
 **On the sample complexity of semi-supervised multi-objective learning**  
 Tobias Wegel, Geelon So, Junhyung Park and Fanny Yang  
 *NeurIPS 2025 (spotlight, 688/21575).*  
