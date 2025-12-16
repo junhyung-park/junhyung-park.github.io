@@ -10,10 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
+**A fine-grained look at causal effects in causal spaces**  
+Junhyung Park and Yuqing Zhou  
+*Submitted.*  
+[arXiv](https://arxiv.org/abs/2512.11919)
+
+
 **Counterfactual Spaces**  
-Junhyung Park, Fanny Yang and Thomas Icard
+Junhyung Park, Fanny Yang and Thomas Icard  
 *EIML@EurIPS 2025 Workshop*  
-Submitted to journal
+*Submitted.*
 
 
 **On the sample complexity of semi-supervised multi-objective learning**  
