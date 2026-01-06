@@ -19,7 +19,8 @@ Junhyung Park and Yuqing Zhou
 **Counterfactual Spaces**  
 Junhyung Park, Fanny Yang and Thomas Icard  
 *EIML@EurIPS 2025 Workshop*  
-*Submitted.*
+*Submitted.*  
+[arXiv](https://arxiv.org/abs/2601.00507)
 
 
 **On the sample complexity of semi-supervised multi-objective learning**  
