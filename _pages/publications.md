@@ -23,15 +23,15 @@ Junhyung Park, Fanny Yang and Thomas Icard
 [arXiv](https://arxiv.org/abs/2601.00507)
 
 
+**Causal-DRF: Conditional Kernel Treatment Effect Estimation using Distributional Random Forest**  
+Jeffrey Näf, Junhyung Park and Herbert Susmann  
+*AISTATS 2026*  
+
+
 **On the sample complexity of semi-supervised multi-objective learning**  
 Tobias Wegel, Geelon So, Junhyung Park and Fanny Yang  
 *NeurIPS 2025 (spotlight, 688/21575).*  
 [arXiv](https://arxiv.org/abs/2508.17152)
-
-
-**Causal-DRF: Conditional Kernel Treatment Effect Estimation using Distributional Random Forest**  
-Jeffrey Näf, Junhyung Park and Herbert Susmann  
-*Submitted.*  
 
 
 **A Classical View on Benign Overfitting: The Role of Sample Size**  
