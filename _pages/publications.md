@@ -12,7 +12,7 @@ redirect_from:
 
 **A fine-grained look at causal effects in causal spaces**  
 Junhyung Park and Yuqing Zhou  
-*CLeaR 2026 (oral)*  
+*CLeaR 2026 (oral, 9/105)*  
 [arXiv](https://arxiv.org/abs/2512.11919)
 
 
