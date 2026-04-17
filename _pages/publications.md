@@ -12,7 +12,7 @@ redirect_from:
 
 **A fine-grained look at causal effects in causal spaces**  
 Junhyung Park and Yuqing Zhou  
-*CLeaR 2026 (oral, 9/105)*  
+*CLeaR 2026 (oral)*  
 [arXiv](https://arxiv.org/abs/2512.11919)
 
 
@@ -26,11 +26,12 @@ Junhyung Park, Fanny Yang and Thomas Icard
 **Causal-DRF: Conditional Kernel Treatment Effect Estimation using Distributional Random Forest**  
 Jeffrey Näf, Junhyung Park and Herbert Susmann  
 *AISTATS 2026*  
+[arXiv](https://arxiv.org/abs/2411.08778)
 
 
 **On the sample complexity of semi-supervised multi-objective learning**  
 Tobias Wegel, Geelon So, Junhyung Park and Fanny Yang  
-*NeurIPS 2025 (spotlight, 688/21575).*  
+*NeurIPS 2025 (spotlight).*  
 [arXiv](https://arxiv.org/abs/2508.17152)
 
 
@@ -54,7 +55,7 @@ Mihir Dhanakshirur, Felix Laumann, Junhyung Park and Mauricio Barahona.
 
 **A Measure-Theoretic Axiomatisation of Causality**  
 Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet.  
-*NeurIPS 2023 (oral, 77/12343).*  
+*NeurIPS 2023 (oral).*  
 [arXiv](https://arxiv.org/abs/2305.17139)
 
 
