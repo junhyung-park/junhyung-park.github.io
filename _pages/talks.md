@@ -10,6 +10,41 @@ redirect_from:
 {% include base_path %}
 
 
+June 2026  
+**University Paris-Saclay**  
+Causal spaces
+
+
+June 2026  
+**University of Manchester**  
+Causal spaces
+
+
+June 2026  
+**University of Oxford**  
+Causal spaces
+
+
+June 2026  
+**University College London**  
+Targeted interventions in causal spaces
+
+
+June 2026  
+**Inria Montpellier**  
+Targeted interventions in causal spaces
+
+
+June 2026  
+**Amsterdam Causality Meeting**  
+Causal spaces
+
+
+May 2026  
+**Yonsei University**  
+Causal spaces
+
+
 November 2025  
 **University College London, Gatsby Unit and Ellis Unit UCL**  
 Causal and Counterfactual Spaces
