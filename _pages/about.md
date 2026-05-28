@@ -14,4 +14,7 @@ Previously, I received my PhD at the [Empirical Inference Department](https://ei
 I am interested in the foundations of causality (with a focus on its [measure-theoretic axiomatisation](https://arxiv.org/abs/2305.17139)) and statistical learning theory. 
 
 
+**NEWS** I will be giving a tutorial at [UAI 2026](https://www.auai.org/uai2026/tutorials), to take place in Amsterdam on the 17th of August. The title of the tutorial is "Causal spaces: A mathematical axiomatisation of causality". Please come by if you are interested! 
+
+
 **NEWS** I am organising the ICML 2026 workshop, ["Philosophy Meets Machine Learning"](https://sites.google.com/view/philmlicml26/home?authuser=0), to be held in Seoul, South Korea, on Saturday the 11th of July. If you're at ICML, do drop by! 
