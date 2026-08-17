@@ -16,6 +16,7 @@ This page contains English translations of some of them by me, in case it is use
 
 **NOTE 1:** I do not claim credit for the mathematical contents of these documents. If rights are violated, I will take them down upon being notified.   
 **NOTE 2:** My French is intermediate at best, and there may be errors in translation. If found, I would be grateful if you could please let me know. 
+**NOTE 3:** These translations were done in the pre-LLM era. Now these kinds of works are redundant, so I have stopped. 
 
 
 **Sous-espaces hilbertiens d’espaces vectoriels topologiques et noyaux associés (Noyaux reproduisants)**  
