@@ -10,6 +10,21 @@ redirect_from:
 {% include base_path %}
 
 
+November 2026  
+**University of Potsdam**  
+Causal Spaces
+
+
+November 2026  
+**Technical University of Hamburg**
+Causal Spaces
+
+
+August 2026  
+**UAI Tutorial**  
+Causal Spaces: A Mathematical Axiomatisation of Causality
+
+
 June 2026  
 **University Paris-Saclay**  
 Causal spaces
