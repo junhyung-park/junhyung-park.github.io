@@ -16,7 +16,7 @@ Causal Spaces
 
 
 November 2026  
-**Technical University of Hamburg**
+**Technical University of Hamburg**  
 Causal Spaces
 
 
