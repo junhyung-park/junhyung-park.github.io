@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the [Statistical Machine Learning](https://sml.inf.ethz.ch/) group at ETH Zürich with [Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/). 
+I am a DFG Walter Benjamin postdoctoral researcher with [Mathias Drton](https://www.professoren.tum.de/en/drton-mathias) in the chair of Mathematical Statistics, Technical University of Munich. I also have a guest contract at Helmholtz Munich in the group of [Niki Kilbertus](https://sites.google.com/view/nikikilbertus/home). 
 
-Previously, I received my PhD at the [Empirical Inference Department](https://ei.is.mpg.de/), Max Planck Institute for Intelligent Systems, Tuebingen, Germany, supervised by [Krikamol Muandet](https://krikamol.org) and [Bernhard Schölkopf](https://is.mpg.de/~bs). Before that, I obtained my MSc Statistics at ETH Zürich, supervised by [Sara van de Geer](https://people.math.ethz.ch/~vsara/), and BA and MMath (Part III) in Mathematics at the University of Cambridge. 
+Previously, I was a postdoctoral researcher in the [Statistical Machine Learning](https://sml.inf.ethz.ch/) group at ETH Zürich with [Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/). I received my PhD at the [Empirical Inference Department](https://ei.is.mpg.de/), Max Planck Institute for Intelligent Systems, Tübingen, Germany, supervised by [Krikamol Muandet](https://krikamol.org) and [Bernhard Schölkopf](https://is.mpg.de/~bs). Before that, I obtained my MSc Statistics at ETH Zürich, supervised by [Sara van de Geer](https://people.math.ethz.ch/~vsara/), and BA and MMath (Part III) in Mathematics at the University of Cambridge. 
 
 I am interested in the foundations of causality (with a focus on its [measure-theoretic axiomatisation](https://arxiv.org/abs/2305.17139)) and statistical learning theory. 
 
