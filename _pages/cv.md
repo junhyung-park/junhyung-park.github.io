@@ -19,7 +19,12 @@ redirect_from:
 
 Work experience
 ======
-* Oct 2024 - : Post-Doctoral Researcher
+* Oct 2026 - : DFG Walter Benjamin Post-Doctoral Researcher
+  * Technical University of Munich, Germany
+  * Supervised by [Mathias Drton](https://www.math.cit.tum.de/math/personen/professuren/drton-mathias/)
+  * Guest contract at Helmholtz Munich with [Niki Kilbertus](https://sites.google.com/view/nikikilbertus/home)
+
+* Oct 2024 - Sep 2026: Post-Doctoral Researcher
   * [Statistical Machine Learning Group](https://sml.inf.ethz.ch/), ETH Zürich, Switzerland
   * Supervised by [Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/)
 
