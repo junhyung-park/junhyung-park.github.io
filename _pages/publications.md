@@ -35,12 +35,6 @@ Tobias Wegel, Geelon So, Junhyung Park and Fanny Yang
 [arXiv](https://arxiv.org/abs/2508.17152)
 
 
-**A Classical View on Benign Overfitting: The Role of Sample Size**  
-Junhyung Park, Patrick Blöbaum and Shiva Kasiviswanathan  
-*Submitted.*  
-[arXiv](https://arxiv.org/abs/2505.11621)
-
-
 **Products, Abstractions and Inclusions of Causal Spaces**  
 Simon Buchholz\*, Junhyung Park\* and Bernhard Schölkopf  
 *UAI 2024.*  
